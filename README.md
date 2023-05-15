@@ -1,2 +1,2 @@
-# geto_lancamento_01
-Site de lançamento estratégico da marca G&amp;TO
+# G&TO Página de Lançamento
+Site de lançamento estratégico da marca G&TO
